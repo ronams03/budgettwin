@@ -1,0 +1,5 @@
+{
+  "name": "BudgetTwin",
+  "description": "A financial digital twin application that uses AI to simulate business scenarios and provide intelligent insights. Adjust variables like revenue growth and hiring to see the real-time impact on your company's financial future.",
+  "requestFramePermissions": []
+}
